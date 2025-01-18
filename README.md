@@ -36,12 +36,19 @@
 
 ## **文件结构**
    ddns-tool/
+   
    ├── README.md
+   
    ├── ddns_tool.html
+   
    ├── styles.css
+   
    ├── config.js
+   
    ├── start.bat
+   
    └── redirect.html
+   
 
 ---
 
