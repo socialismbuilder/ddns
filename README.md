@@ -23,33 +23,26 @@
        accessKeyId: "你的阿里云 AccessKey ID",
        accessKeySecret: "你的阿里云 AccessKey Secret",
        domain: "你的主域名",
-       subdomain: "你的子域名"
+       subdomain: "你的子域名（可选）"
      };
      ```
 
 2. **运行工具**：
    - 双击运行 `start.bat` 文件。
-   - 在主页面中选择 IP 来源并提交表单。
+   - 在打开的网页中选择 IP 来源并提交表单。
    - 查看操作结果。
 
 ---
 
 ## **文件结构**
-   ddns-tool/
+ddns-tool/
+   - README.md
+   - ddns_tool.html
+   - styles.css
+   - config.js
+   - start.bat
+   - redirect.html(自动生成)
    
-   ├── README.md
-   
-   ├── ddns_tool.html
-   
-   ├── styles.css
-   
-   ├── config.js
-   
-   ├── start.bat
-   
-   └── redirect.html
-   
-
 ---
 
 ## **注意事项**
